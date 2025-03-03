@@ -7,13 +7,6 @@ A classic memory matching game built with Python and Tkinter. Test your memory b
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Game Rules](#game-rules)
-- [Scoring System](#scoring-system)
-- [Screenshots](#screenshots)
-- [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This Memory Game is a simple yet engaging implementation of the classic card matching game. Players need to match pairs of numbers by clicking on tiles, testing their memory and concentration skills.
